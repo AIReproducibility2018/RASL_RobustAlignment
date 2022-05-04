@@ -1,0 +1,9 @@
+ total number of iterations: 566
+ number of outer loop 12
+ consumed time: 249.4499
+ the parameters :
+ transformType HOMOGRAPHY
+ lambda 1 times sqrt(m)
+ stoppingDelta of outer loop 0.01
+ stoppingDelta of inner loop 1e-06
+ optimization in inner loop is using inexact ALM algorithm

@@ -1,0 +1,9 @@
+ total number of iterations: 853
+ number of outer loop 18
+ consumed time: 171.6865
+ the parameters :
+ transformType AFFINE
+ lambda 1 times sqrt(m)
+ stoppingDelta of outer loop 0.01
+ stoppingDelta of inner loop 1e-06
+ optimization in inner loop is using inexact ALM algorithm
