@@ -1,6 +1,8 @@
 # RASL_RobustAlignment
 [EXTERN] RASL: Robust alignment by sparse and low-rank decomposition for linearly correlated images
 
+Original code retrieved from https://people.eecs.berkeley.edu/~yima/matrix-rank/rasl.html
+
 Diff between local version of directory (the code that was run) and a freshly extracted version from RASL_code.zip:
 
 ```
